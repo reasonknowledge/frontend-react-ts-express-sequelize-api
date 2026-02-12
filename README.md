@@ -395,5 +395,5 @@ MIT
 ---
 
 ## Auteur
-
+Reason knowledge(Franck Hervé)
 Application développée avec React 19, TypeScript et shadcn/ui.
